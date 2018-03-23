@@ -1,0 +1,50 @@
+{
+    "result": {
+        "songs": [{
+            "id": 151200,
+            "name": "天堂",
+            "artists": [{
+                "id": 5198,
+                "name": "腾格尔",
+                "picUrl": null,
+                "alias": [],
+                "albumSize": 0,
+                "picId": 0,
+                "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                "img1v1": 0,
+                "trans": null
+            }],
+            "album": {
+                "id": 15238,
+                "name": "跨越.新天堂(精华典藏版)",
+                "artist": {
+                    "id": 0,
+                    "name": "",
+                    "picUrl": null,
+                    "alias": [],
+                    "albumSize": 0,
+                    "picId": 0,
+                    "img1v1Url": "http://p1.music.126.net/6y-UleORITEDbvrOLV0Q8A==/5639395138885805.jpg",
+                    "img1v1": 0,
+                    "trans": null
+                },
+                "publishTime": 1038672000000,
+                "size": 14,
+                "copyrightId": 0,
+                "status": 1,
+                "picId": 745468883644326
+            },
+            "duration": 460905,
+            "copyrightId": 14031,
+            "status": 0,
+            "alias": [],
+            "rtype": 0,
+            "ftype": 0,
+            "mvid": 0,
+            "fee": 0,
+            "rUrl": null
+        }],
+        "songCount": 600
+    },
+    "code": 200
+}
